@@ -1,4 +1,4 @@
-// Uaing Arduino Nano
+// Using Arduino Nano
 // Neopixel connected to 5V, GND and 2
 // Black button connected to GND,3 
 // Green button connected to GND, 4
